@@ -49,7 +49,7 @@ Contacts MIUIAod MiuiHome MIUISecurityCenter  Mms  MIUIContentExtension  MIUIPac
     sudo apt upgrade
     sudo apt install git -y
     # 克隆项目
-    git clone https://github.com/toraidl/hyperos_port.git
+    git clone https://github.com/WuaBai/hyperos_ports.git
     cd hyperos_port
     # 安装依赖
     sudo ./setup.sh
@@ -62,7 +62,7 @@ Contacts MIUIAod MiuiHome MIUISecurityCenter  Mms  MIUIContentExtension  MIUIPac
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
     # 克隆项目
-    git clone https://github.com/toraidl/hyperos_port.git
+    git clone https://github.com/WuaBai/hyperos_ports.git
     cd hyperos_port
     # 安装依赖
     sudo ./setup.sh
@@ -75,7 +75,7 @@ Contacts MIUIAod MiuiHome MIUISecurityCenter  Mms  MIUIContentExtension  MIUIPac
     pkg upgrade
     pkg install git tsu -y
     # 克隆项目
-    git clone https://github.com/toraidl/hyperos_port.git
+    git clone https://github.com/WuaBai/hyperos_ports.git
     cd hyperos_port/
     # 安装依赖
     ./setup.sh
