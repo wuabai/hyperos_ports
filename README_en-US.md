@@ -38,7 +38,7 @@
     sudo apt upgrade
     sudo apt install git -y
     # Clone project
-    git clone https://github.com/WuaBai/hyperos_ports.git
+    git clone https://github.com/wuabai/hyperos_ports.git
     chmod -R 777 hyperos_ports
     cd hyperos_port
     # Install dependencies
@@ -52,7 +52,7 @@
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
     # Clone project
-    git clone https://github.com/WuaBai/hyperos_ports.git
+    git clone https://github.com/wuabai/hyperos_ports.git
     chmod -R 777 hyperos_ports
     cd hyperos_port
     # Install dependencies
@@ -66,7 +66,7 @@
     pkg upgrade
     pkg install git tsu -y
     # Clone project
-    git clone https://github.com/WuaBai/hyperos_ports.git
+    git clone https://github.com/wuabai/hyperos_ports.git
     chmod -R 777 hyperos_ports
     cd hyperos_port/
     # Install depenencies
